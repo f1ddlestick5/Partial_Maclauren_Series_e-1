@@ -1,0 +1,13 @@
+﻿Build started 12/29/2012 1:05:50 PM.
+     1>Project "F:\STORAGE\Shared\Programming\VS Projects\Partial_Maclauren_e^1\Partial_Maclauren_Series_e^1\Partial_Maclauren_Series_e^1\Partial_Maclauren_Series_e^1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\STORAGE\Shared\Programming\VS Projects\Partial_Maclauren_e^1\Partial_Maclauren_Series_e^1\Debug\Partial_Maclauren_Series_e^1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\STORAGE\Shared\Programming\VS Projects\Partial_Maclauren_e^1\Partial_Maclauren_Series_e^1\Debug\Partial_Maclauren_Series_e^1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\STORAGE\Shared\Programming\VS Projects\Partial_Maclauren_e^1\Partial_Maclauren_Series_e^1\Debug\Partial_Maclauren_Series_e^1.lib" /MACHINE:X86 Debug\main.obj
+         Partial_Maclauren_Series_e^1.vcxproj -> F:\STORAGE\Shared\Programming\VS Projects\Partial_Maclauren_e^1\Partial_Maclauren_Series_e^1\Debug\Partial_Maclauren_Series_e^1.exe
+     1>Done Building Project "F:\STORAGE\Shared\Programming\VS Projects\Partial_Maclauren_e^1\Partial_Maclauren_Series_e^1\Partial_Maclauren_Series_e^1\Partial_Maclauren_Series_e^1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.27
